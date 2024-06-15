@@ -1,5 +1,7 @@
 # anime_api #
 
+API from certain Anime Games
+
 ## Notice ##
 
 API Links are now Categorized!
