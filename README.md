@@ -44,12 +44,6 @@ This Repository is meant for reseaching and helping players do manual downloads.
 
 [Global and China](./Cloud/APIs.md)
 
-### ZZZ CBT ###
-
-[CBT 2](./Old%20Launcher%20APIs/Beta%20-%20ZZZ%20CBT.md)
-
-[CBT 3](./HoYoPlay/Beta%20-%20ZZZ%20CBT.md)
-
 ## Other Links ##
 
 [HoYoPlay Global](https://hoyoplay.hoyoverse.com)
