@@ -1,4 +1,4 @@
-# BiliBili - Star Rail
+# BiliBili - Genshin
 
 [Game Configs](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=umfgRO5gh5)
 
