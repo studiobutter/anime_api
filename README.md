@@ -55,3 +55,7 @@ This Repository is meant for reseaching and helping players do manual downloads.
 [Star Rail - BiliBili](https://www.biligame.com/detail/?id=108586)
 
 [Genshin - BiliBili](https://www.biligame.com/detail/?id=105667)
+
+[miHoYo Cloud Services - China](https://mhyy.mihoyo.com/)
+
+[Genshin - Cloud Global](https://cloudgenshin.hoyoverse.com/en-us)
