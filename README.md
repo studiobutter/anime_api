@@ -24,12 +24,6 @@ This Repository is meant for reseaching and helping players do manual downloads.
 
 *Fixed Links, for official Updated downloads, check the [Other Links](#other-links) below
 
-## Old Launcher ##
-
-[Global](./Old%20Launcher%20APIs/Global.md)
-
-[China](./Old%20Launcher%20APIs/China.md)
-
 ## HoYoPlay ##
 
 [Global](./HoYoPlay/Global.md)
