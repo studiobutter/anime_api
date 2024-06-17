@@ -8,7 +8,7 @@ API Links are now Categorized!
 
 Old Launcher API will be seperate.
 
-**NOTICE**: Old Launcher APIs will be depercated on June 17th, 2024
+**NOTICE**: Old Launcher APIs have been depercated since June 17th, 2024
 
 This Repository is meant for reseaching and helping players do manual downloads.
 
