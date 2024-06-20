@@ -1,6 +1,6 @@
 # anime_api #
 
-API from certain Anime Games
+List of API from certain Anime Games.
 
 ## Notice ##
 
