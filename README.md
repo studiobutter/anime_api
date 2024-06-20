@@ -20,6 +20,8 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 [HoYoPlay China](hyp-cn://)
 
+[Protocall Settings](./HoYoPlay/URI%20Protocalls.md)
+
 ## HoYoPlay ##
 
 [Global](./HoYoPlay/Global.md)
