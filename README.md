@@ -12,17 +12,13 @@ Old Launcher API will be seperate.
 
 This Repository is meant for reseaching and helping players do manual downloads.
 
-## Direct Download links to HoYoPlay ##
+## URI Protocalls ##
 
-[China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.0.5.exe)
+URI protocalls are little shortcuts registered to your Machine that automatically launch an application when called. Click the link below to try it out!
 
-[BiliBili - Genshin*](https://pkg.biligame.com/games/yuanshen_setup_202405212026/697971/yuanshen_setup_202405212026.exe)
+[HoYoPlay Global](hyp-global://)
 
-[BiliBili - HSR*](https://pkg.biligame.com/games/StarRail_setup_1.0.5/390774/StarRail_setup_1.0.5.exe)
-
-[Global](https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default)
-
-*Fixed Links, for official Updated downloads, check the [Other Links](#other-links) below
+[HoYoPlay China](hyp-cn://)
 
 ## HoYoPlay ##
 
@@ -39,6 +35,18 @@ This Repository is meant for reseaching and helping players do manual downloads.
 ### Cloud ###
 
 [Global and China](./Cloud/APIs.md)
+
+## Direct Download links to HoYoPlay ##
+
+[China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.0.5.exe)
+
+[BiliBili - Genshin*](https://pkg.biligame.com/games/yuanshen_setup_202405212026/697971/yuanshen_setup_202405212026.exe)
+
+[BiliBili - HSR*](https://pkg.biligame.com/games/StarRail_setup_1.0.5/390774/StarRail_setup_1.0.5.exe)
+
+[Global](https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default)
+
+*Fixed Links, for official Updated downloads, check the [Other Links](#other-links) below
 
 ## Other Links ##
 
