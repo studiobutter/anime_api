@@ -20,7 +20,7 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 [HoYoPlay China](hyp-cn://)
 
-[Protocall Settings](./HoYoPlay/URI%20Protocalls.md)
+[Protocall Settings](./HoYoPlay/URI.md)
 
 ## HoYoPlay ##
 
@@ -28,9 +28,9 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 [China](./HoYoPlay/China.md)
 
-[BiliBili - GI](./HoYoPlay/BiliBili%20-%20Genshin.md)
+[BiliBili - GI](./HoYoPlay/BiliBili_Genshin.md)
 
-[BiliBili - HSR](./HoYoPlay/BiliBili%20-%20Star%20Rail.md)
+[BiliBili - HSR](./HoYoPlay/BiliBili-SR.md)
 
 ## Other APIs ##
 
