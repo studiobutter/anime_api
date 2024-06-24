@@ -1,6 +1,8 @@
 # HoYoPlay URL Protocalls
 
-Please note that these URIs only open the Launcher's Game Page. It does not open the game directly
+Please note that these URIs only open the Launcher's Game Page. It does not open the game directly.
+
+Notice: Administrator (User Account Control) will be asked when clicking on these links.
 
 ## Global
 
