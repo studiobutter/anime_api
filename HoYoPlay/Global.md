@@ -1,5 +1,17 @@
 # Global
 
+Certain links can get in different languages like Vietnamese, Japanese, Korean, Flipinos, etc
+
+On some links, add either one of these two:
+
+```json
+&lang={lang}
+```
+
+```json
+&language={lang}
+```
+
 [Game Configs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=VYTpXlbWo8)
 
 [SDKs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=VYTpXlbWo8)
