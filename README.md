@@ -10,6 +10,8 @@ Old Launcher API will be seperate.
 
 **NOTICE**: Old Launcher APIs have been depercated since June 17th, 2024
 
+For Honkai Impact 3rd players, old APIs can be access [here](./Old%20APIs/HI3.md)
+
 This Repository is meant for reseaching and helping players do manual downloads.
 
 ## URI Protocalls ##
