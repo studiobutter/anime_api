@@ -34,6 +34,8 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 [BiliBili - HSR](./HoYoPlay/BiliBili-SR.md)
 
+[BiliBili - ZZZ](./HoYoPlay/BiliBili%20-%20ZZZ.md)
+
 ## Other APIs ##
 
 ### Cloud ###
@@ -48,6 +50,8 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 [BiliBili - HSR*](https://pkg.biligame.com/games/StarRail_setup_1.0.5/390774/StarRail_setup_1.0.5.exe)
 
+[BiliBili - ZZZ*](https://pkg.biligame.com/games/ZenlessZoneZerobilibili_setup_202406191429/796157/ZenlessZoneZerobilibili_setup_202406191429.exe)
+
 [Global](https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default)
 
 *Fixed Links, for official Updated downloads, check the [Other Links](#other-links) below
@@ -61,6 +65,8 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 [Star Rail - BiliBili](https://www.biligame.com/detail/?id=108586)
 
 [Genshin - BiliBili](https://www.biligame.com/detail/?id=105667)
+
+[Zenless - BiliBili](https://www.biligame.com/detail/?id=111210)
 
 [miHoYo Cloud Services - China](https://mhyy.mihoyo.com/)
 
