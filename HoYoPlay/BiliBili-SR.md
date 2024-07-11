@@ -2,7 +2,7 @@
 
 [Game Configs](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=6P5gHMNyK3)
 
-[SDKs](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameChannelSDKs?channel=1&launcher_id=6P5gHMNyK3&sub_channel=1)
+[SDKs](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameChannelSDKs?channel=14&launcher_id=6P5gHMNyK3)
 
 [Game Branches & Sophon](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameBranches?launcher_id=6P5gHMNyK3)
 
