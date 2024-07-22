@@ -26,15 +26,27 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 ## HoYoPlay ##
 
-[Global](./HoYoPlay/Global.md)
+### Official ###
 
-[China](./HoYoPlay/China.md)
+[Global](./HoYoPlay/Official/Global.md)
 
-[BiliBili - GI](./HoYoPlay/BiliBili_Genshin.md)
+[China](./HoYoPlay/Official/China.md)
 
-[BiliBili - HSR](./HoYoPlay/BiliBili-SR.md)
+### BiliBili ###
 
-[BiliBili - ZZZ](./HoYoPlay/BiliBili%20-%20ZZZ.md)
+[GI](./HoYoPlay/BiliBili/GI.md)
+
+[HSR](./HoYoPlay/BiliBili/SR.md)
+
+[ZZZ](./HoYoPlay/BiliBili/ZZZ.md)
+
+### Epic and Google Play ###
+
+[GI](./HoYoPlay/Epic-Google/Epic-Google_GI.md)
+
+[HSR](./HoYoPlay/Epic-Google/Epic_SR.md)
+
+[ZZZ](./HoYoPlay/Epic-Google/Epic_ZZZ.md)
 
 ## Other APIs ##
 
