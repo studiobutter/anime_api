@@ -42,6 +42,8 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 ### Epic and Google Play ###
 
+Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay of that game must be installed to run correctly and the game must be run directly from the Epic Games Launcher. Fail to do so will make the game hang when exit or on a certain point.
+
 [GI](./HoYoPlay/Epic-Google/Epic-Google_GI.md)
 
 [HSR](./HoYoPlay/Epic-Google/Epic_SR.md)
