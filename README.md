@@ -58,13 +58,13 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 ## Direct Download links to HoYoPlay ##
 
-[China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.0.5.exe)
+[China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.1.4.exe)
 
-[BiliBili - Genshin*](https://pkg.biligame.com/games/yuanshen_setup_202405212026/697971/yuanshen_setup_202405212026.exe)
+[BiliBili - Genshin*](https://pkg.biligame.com/games/yuanshen_setup_202407301911/069788/yuanshen_setup_202407301911.exe)
 
-[BiliBili - HSR*](https://pkg.biligame.com/games/StarRail_setup_1.0.5/390774/StarRail_setup_1.0.5.exe)
+[BiliBili - HSR*](https://pkg.biligame.com/games/StarRail_setup_bilibili/773823/StarRail_setup_bilibili.exe)
 
-[BiliBili - ZZZ*](https://pkg.biligame.com/games/ZenlessZoneZerobilibili_setup_202406191429/796157/ZenlessZoneZerobilibili_setup_202406191429.exe)
+[BiliBili - ZZZ*](https://pkg.biligame.com/games/zzz_bilibili_1.1new/840833/zzz_bilibili_1.1new.exe)
 
 [Global](https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default)
 
