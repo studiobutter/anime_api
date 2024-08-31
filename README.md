@@ -12,6 +12,8 @@ Old Launcher API will be seperate.
 
 For Honkai Impact 3rd players, old APIs can be access [here](./Old_APIs/HI3.md)
 
+Disclaimer: HI3rd Old APIs will be Deprecated soon!
+
 This Repository is meant for reseaching and helping players do manual downloads.
 
 ## URI Protocalls ##

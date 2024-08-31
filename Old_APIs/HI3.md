@@ -1,5 +1,7 @@
 # Honkai Impact 3rd Old APIs
 
+Disclaimer: Old APIs will be Deprecated soon!
+
 [Global - America and Europe](https://sdk-os-static.mihoyo.com/bh3_global/mdk/launcher/api/resource?key=dpz65xJ3&channel_id=1&launcher_id=10&sub_channel_id=1)
 
 [Global - Epic Games](https://sdk-os-static.mihoyo.com/bh3_global/mdk/launcher/api/resource?channel_id=1&key=yK6zLGn6RerL0APV&launcher_id=20&sub_channel_id=3)
