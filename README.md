@@ -1,4 +1,4 @@
-# anime_api #
+# Anime Universe APIs #
 
 List of API from certain Anime Games.
 
