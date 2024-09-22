@@ -20,6 +20,8 @@ URI protocalls are little shortcuts registered to your Machine that automaticall
 
 [Protocall Settings](./HoYoPlay/URI.md)
 
+For other protocols, check out [uri-test](https://studiobutter.github.io/uri-test)
+
 ## HoYoPlay ##
 
 ### Official ###
