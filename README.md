@@ -10,6 +10,10 @@ Disclaimer: HI3rd Old APIs will soon be Deprecated!
 
 This Repository is meant for reseaching and helping players do manual downloads.
 
+Used in Project: 
+
+- [hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) by [seriaati](https://github.com/seriaati)
+
 ## URI Protocalls ##
 
 URI protocalls are little shortcuts registered to your Machine that automatically launch an application when called. Click the link below to try it out!
