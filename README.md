@@ -58,6 +58,9 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [Genshin Global and China](./Cloud/ys_APIs.md)
 
+[Star Rail China](./Cloud/sr_APIs.md)
+
+
 ## Direct Download links to HoYoPlay ##
 
 [China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.1.4.exe)
