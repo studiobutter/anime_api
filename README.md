@@ -56,7 +56,7 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 ### Cloud ###
 
-[Global and China](./Cloud/ys_APIs.md)
+[Genshin Global and China](./Cloud/ys_APIs.md)
 
 ## Direct Download links to HoYoPlay ##
 
