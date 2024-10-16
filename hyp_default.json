@@ -1,0 +1,155 @@
+{
+  "gameBizList": [
+    "nap_global",
+    "hkrpg_global",
+    "hk4e_global",
+    "bh3_global"
+  ],
+  "gameHubsOrder": [
+    "nap_global",
+    "hkrpg_global",
+    "hk4e_global",
+    "bh3_global"
+  ],
+  "configsByBiz": {
+    "nap_global": {
+      "configsByLang": {
+        "en-us": {
+          "name": "ZenlessZoneZero",
+          "icon": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/30/a0cae857c08c0c2b03829ae347eff21d_848951977480758113.png",
+            "src": "images/nap_global/icon_en-us.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/30/fdf7a7f32b1b98b74b2c14066cc4b522_289217115943255142.png",
+            "src": "images/nap_global/logo_en-us.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/06/17/107ec31f7c257bc451f37012d3abbff8_4980187638836748275.webp",
+              "src": "images/nap_global/hub_background_en-us.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/06/17/c29f67e99818cc3b11a86d2f95b01df6_1538074605803076771.jpg",
+              "src": "images/nap_global/hub_card_en-us.jpg"
+            },
+            "logo": {
+              "src": "images/nap_global/logo_en-us.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/06/17/8d4f52f7b3f755289ee93b7d367203a6_775764930156809168.webp",
+              "src": "images/nap_global/launcher_background_en-us.webp"
+            }
+          }
+        }
+      }
+    },
+    "hkrpg_global": {
+      "configsByLang": {
+        "en-us": {
+          "name": "Star Rail",
+          "icon": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/04/39992ccaeef09cedf09009d8901a81d2_17501412334608026.png",
+            "src": "images/hkrpg_global/icon_en-us.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/04/03/45bf1b7f40e8e4a210c5ed128457bf96_7418875346197227963.png",
+            "src": "images/hkrpg_global/logo_en-us.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/04/03/ec147a0418f4e40ba817d3f08d79e84a_1772075079190317910.webp",
+              "src": "images/hkrpg_global/hub_background_en-us.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/04/03/c45dd543cc497fd0a8d2e9494cc2d234_3790211134339772392.png",
+              "src": "images/hkrpg_global/hub_card_en-us.png"
+            },
+            "logo": {
+              "src": "images/hkrpg_global/logo_en-us.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/04/03/c39a166246987d76ffaa0a03894c9ffd_7518322323697917524.webp",
+              "src": "images/hkrpg_global/launcher_background_en-us.webp"
+            }
+          }
+        }
+      }
+    },
+    "hk4e_global": {
+      "configsByLang": {
+        "en-us": {
+          "name": "Genshin Impact",
+          "icon": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/04/2e81b12276a2260c10133124e6ead00e_2288086421256137647.png",
+            "src": "images/hk4e_global/icon_en-us.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/04/9b63cdc03c4d2f0469c2984ba7e2407b_1072545952152545276.png",
+            "src": "images/hk4e_global/logo_en-us.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/04/7c2a1fc0d52f08eebb7db3bf134c5ddd_2725095393013266401.webp",
+              "src": "images/hk4e_global/hub_background_en-us.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/04/1835058002228ee5646f046a07c0c3e8_5333257587631779754.png",
+              "src": "images/hk4e_global/hub_card_en-us.png"
+            },
+            "logo": {
+              "src": "images/hk4e_global/logo_en-us.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/03/04/7c2a1fc0d52f08eebb7db3bf134c5ddd_3765386544575443070.webp",
+              "src": "images/hk4e_global/launcher_background_en-us.webp"
+            }
+          }
+        }
+      }
+    },
+    "bh3_global": {
+      "configsByLang": {
+        "en-us": {
+          "name": "Honkai Impact 3rd",
+          "icon": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/05/15/3526a039dddb4c8ca9d1083555f5781b_3684320101332177763.png",
+            "src": "images/bh3_global/icon_en-us.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/05/15/7c3ab42aa8204e345cb91faa424d4c45_7111538135269877551.png",
+            "src": "images/bh3_global/logo_en-us.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/05/15/c1c04bfc7e3e148b8df413ff1a8392fc_758153469718098122.webp",
+              "src": "images/bh3_global/hub_background_en-us.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/05/15/cc7803752504e6b23a9aded8b60596cf_3862558777820169793.png",
+              "src": "images/bh3_global/hub_card_en-us.png"
+            },
+            "logo": {
+              "src": "images/bh3_global/logo_en-us.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.hoyoverse.com/launcher-public/2024/09/13/b49cace5375e72920961828b592ae62a_4302268664675633403.webp",
+              "src": "images/bh3_global/launcher_background_en-us.webp"
+            }
+          }
+        }
+      }
+    }
+  },
+  "multiServerGameBiz": [
+    "bh3_global"
+  ]
+}

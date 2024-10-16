@@ -1,0 +1,142 @@
+{
+  "gameBizList": ["nap_cn", "hkrpg_cn", "hk4e_cn", "bh3_cn"],
+  "gameHubsOrder": ["nap_cn", "hkrpg_cn", "hk4e_cn", "bh3_cn"],
+  "configsByBiz": {
+    "nap_cn": {
+      "configsByLang": {
+        "zh-cn": {
+          "name": "ZenlessZoneZero",
+          "icon": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/03/30/a0ac549573653a07f91016b205ce54a4_454666816398999705.png",
+            "src": "images/nap_cn/icon_zh-cn.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/03/30/4ac0a7c98cf8077d3f23171dff80b78c_5341555227332883365.png",
+            "src": "images/nap_cn/logo_zh-cn.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/06/17/107ec31f7c257bc451f37012d3abbff8_2628440061523765773.webp",
+              "src": "images/nap_cn/hub_background_zh-cn.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/06/17/c29f67e99818cc3b11a86d2f95b01df6_4404313802583541166.jpg",
+              "src": "images/nap_cn/hub_card_zh-cn.jpg"
+            },
+            "logo": {
+              "src": "images/nap_cn/logo_zh-cn.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/06/17/ea974f1a4b75997c983dca7030f8244a_2552452615184289641.webp",
+              "src": "images/nap_cn/launcher_background_zh-cn.webp"
+            }
+          }
+        }
+      }
+    },
+    "hkrpg_cn": {
+      "configsByLang": {
+        "zh-cn": {
+          "name": "Star Rail",
+          "icon": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/36cb596329f5d723c07b2350d4d82670_1456943560518682155.png",
+            "src": "images/hkrpg_cn/icon_zh-cn.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/04/03/84b4cbdf01d613d4ea57c47bc5b926e7_1907051243630837096.png",
+            "src": "images/hkrpg_cn/logo_zh-cn.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/04/11/ec147a0418f4e40ba817d3f08d79e84a_539953895094082544.webp",
+              "src": "images/hkrpg_cn/hub_background_zh-cn.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/04/11/c45dd543cc497fd0a8d2e9494cc2d234_85057118669439228.png",
+              "src": "images/hkrpg_cn/hub_card_zh-cn.png"
+            },
+            "logo": {
+              "src": "images/hkrpg_cn/logo_zh-cn.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/04/11/c39a166246987d76ffaa0a03894c9ffd_2793526909775559771.webp",
+              "src": "images/hkrpg_cn/launcher_background_zh-cn.webp"
+            }
+          }
+        }
+      }
+    },
+    "hk4e_cn": {
+      "configsByLang": {
+        "zh-cn": {
+          "name": "Genshin Impact",
+          "icon": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/9ebf1bc5af2d83ca5fca21adb49cf341_5993030289670931664.png",
+            "src": "images/hk4e_cn/icon_zh-cn.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/8da3b9b580274f8168ec589bb8ea6b1a_7445029105158890965.png",
+            "src": "images/hk4e_cn/logo_zh-cn.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/ac26eca6b12d18a72fadbfb2947d98d2_6521207312696804736.webp",
+              "src": "images/hk4e_cn/hub_background_zh-cn.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/08ec1ee78309eb8b60804bdd27be5730_8221540578645355447.png",
+              "src": "images/hk4e_cn/hub_card_zh-cn.png"
+            },
+            "logo": {
+              "src": "images/hk4e_cn/logo_zh-cn.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/ac26eca6b12d18a72fadbfb2947d98d2_6509650389863911311.webp",
+              "src": "images/hk4e_cn/launcher_background_zh-cn.webp"
+            }
+          }
+        }
+      }
+    },
+    "bh3_cn": {
+      "configsByLang": {
+        "zh-cn": {
+          "name": "Honkai Impact 3rd",
+          "icon": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/fdc95c839e7c750d41e1c208d8cf1223_1453057328393546598.png",
+            "src": "images/bh3_cn/icon_zh-cn.png"
+          },
+          "logo": {
+            "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/b25102c3bff8b84fcac5b8141f02a0e1_4411312212299291390.png",
+            "src": "images/bh3_cn/logo_zh-cn.png"
+          },
+          "hub": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/a686f17e64e266387f60d01d2e24716b_6595736031280929709.webp",
+              "src": "images/bh3_cn/hub_background_zh-cn.webp"
+            },
+            "card": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/00daf0bf8435acc05dd854c0a1ff2782_6988611362365136348.png",
+              "src": "images/bh3_cn/hub_card_zh-cn.png"
+            },
+            "logo": {
+              "src": "images/bh3_cn/logo_zh-cn.png"
+            }
+          },
+          "launcher": {
+            "background": {
+              "url": "https://launcher-webstatic.mihoyo.com/launcher-public/2024/02/29/337b57e0564b5359e8879b4bddcaac44_834290380061242067.webp",
+              "src": "images/bh3_cn/launcher_background_zh-cn.webp"
+            }
+          }
+        }
+      }
+    }
+  }
+}
