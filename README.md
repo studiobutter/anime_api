@@ -6,6 +6,10 @@ List of API from certain Anime Games.
 
 For Honkai Impact 3rd players, old APIs can be access [here](./Old_APIs/HI3.md)
 
+- October 17: Migration have started
+
+- ???: Migrated, Old_APIs have been removed
+
 Disclaimer: HI3rd Old APIs will soon be Deprecated!
 
 This Repository is meant for reseaching and helping players do manual downloads.
@@ -63,7 +67,7 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 ## Direct Download links to HoYoPlay ##
 
-[China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.1.4.exe)
+[China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.2.2.exe)
 
 [BiliBili - Genshin*](https://pkg.biligame.com/games/yuanshen_setup_202407301911/069788/yuanshen_setup_202407301911.exe)
 
