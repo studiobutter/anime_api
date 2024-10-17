@@ -2,15 +2,11 @@
 
 List of API from certain Anime Games.
 
-**NOTICE**: Old Launcher APIs have been depercated since June 17th, 2024
+**NOTICE**:
 
-For Honkai Impact 3rd players, old APIs can be access [here](./Old_APIs/HI3.md)
+- Old Launcher APIs have been depercated since June 17th, 2024 for Genshin, Star Rail.
 
-- October 17: Migration have started
-
-- ???: Migrated, Old_APIs have been removed
-
-Disclaimer: HI3rd Old APIs will soon be Deprecated!
+- Old Launcher APIs have been depercated on ??? for all region of Honkai Impact 3rd
 
 This Repository is meant for reseaching and helping players do manual downloads.
 
