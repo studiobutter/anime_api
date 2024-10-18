@@ -4,7 +4,7 @@ List of API from certain Anime Games.
 
 **NOTICE**: Old Launcher APIs have been depercated since June 17th, 2024
 
-For Honkai Impact 3rd players, old APIs can be access [here](./Old_APIs/HI3.md)
+For Honkai Impact 3rd players, old APIs can be access [here](./Old_APIs/HI3.md). Access to the old API is available until migration is completed.
 
 - October 17: Migration have started
 
