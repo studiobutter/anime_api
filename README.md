@@ -73,7 +73,7 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [BiliBili - ZZZ*](https://pkg.biligame.com/games/zzz_bilibili_1.1new/840833/zzz_bilibili_1.1new.exe)
 
-[Global](https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default)
+[Global](https://download-porter.hoyoverse.com/download-porter/2024/10/16/VYTpXlbWo8_1.2.2.159_1_0_hyp_hoyoverse_prod_202410101639_pXThMoIQ.exe?trace_key=HoYoPlay_1_2_2)
 
 *Fixed Links, for official Updated downloads, check the [Other Links](#other-links) below
 
