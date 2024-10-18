@@ -52,6 +52,8 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [ZZZ](./HoYoPlay/Epic-Google/Epic_ZZZ.md)
 
+[HI3rd]()
+
 ## Other APIs ##
 
 ### Cloud ###
