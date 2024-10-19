@@ -1,6 +1,6 @@
-# Global - Google Play and Epic Games - Genshin
+# Southeast Asia - Google Play - Genshin
 
-Certain links can get in different languages like Vietnamese, Japanese, Korean, Flipinos, etc
+Certain links can get in different languages like Vietnamese, Flipinos, Malaysian, Thailand, etc
 
 On some links, add either one of these two:
 
@@ -12,8 +12,6 @@ On some links, add either one of these two:
 &language={lang}
 ```
 
-Note: Epic use a different sub_channel ID and cps ID than Google in the game's `Game_Data/config.ini`
-
 ## Google Play
 
 ```json
@@ -22,17 +20,9 @@ sub_channel=6
 cps=pcgoogle
 ```
 
-## Epic Games
-
-```json
-channel=1
-sub_channel=3
-cps=pcepic
-```
-
 [Game Configs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=GTLARRVLB5)
 
-[SDKs - Epic](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=GTLARRVLB5&channel=1&sub_channel=3)
+[SDKs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=GTLARRVLB5&channel=1&sub_channel=6)
 
 Google Play does not have SDK as it's integrated in HoYo Login SDK. You will be asked to login to Google Play to verify your safeguard.
 
