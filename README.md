@@ -64,7 +64,6 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [Star Rail China](./Cloud/sr_APIs.md)
 
-
 ## Direct Download links to HoYoPlay ##
 
 [Main Launcher](./Installer/HoYoPlay.md)
