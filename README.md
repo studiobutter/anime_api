@@ -4,7 +4,7 @@ List of API from certain Anime Games.
 
 **NOTICE**: All APIs have been migrated to HoYoPlay APIs. All Old Launcher APIs are deprecated.
 
-This Repository is meant for reseaching and helping players do manual downloads.
+This Repository is meant for reseaching and helping players do manual downloads. You can read the FAQ [here](./Docs/FAQ.md)
 
 Used in Project: 
 
