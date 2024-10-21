@@ -18,7 +18,7 @@ URI Protocols are little shortcuts registered to your Machine that automatically
 
 [HoYoPlay China](hyp-cn://)
 
-[Protocall Settings](./HoYoPlay/URI.md)
+[Protocols Settings](./HoYoPlay/URI.md)
 
 For other protocols, check out [uri-test](https://studiobutter.github.io/uri-test)
 
