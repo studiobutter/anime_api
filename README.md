@@ -2,15 +2,7 @@
 
 List of API from certain Anime Games.
 
-**NOTICE**: Old Launcher APIs have been depercated since June 17th, 2024
-
-For Honkai Impact 3rd players, old APIs can be access [here](./Old_APIs/HI3.md). Access to the old API is available until migration is completed.
-
-- October 17: Migration have started
-
-- ???: Migrated, Old_APIs have been removed
-
-Disclaimer: HI3rd Old APIs will soon be Deprecated!
+**NOTICE**: All APIs have been migrated to HoYoPlay APIs. All Old Launcher APIs are deprecated.
 
 This Repository is meant for reseaching and helping players do manual downloads.
 
@@ -56,6 +48,8 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [ZZZ](./HoYoPlay/Epic-Google/Epic_ZZZ.md)
 
+[[NEW] HI3rd](./HoYoPlay/Epic-Google/HI3/Root.md)
+
 ## Other APIs ##
 
 ### Cloud ###
@@ -64,33 +58,10 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [Star Rail China](./Cloud/sr_APIs.md)
 
-
 ## Direct Download links to HoYoPlay ##
 
-[China*](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.2.2.exe)
+[Main Launcher](./Installer/HoYoPlay.md)
 
-[BiliBili - Genshin*](https://pkg.biligame.com/games/yuanshen_setup_202407301911/069788/yuanshen_setup_202407301911.exe)
+[BiliBili Launcher](./Installer/HYP-BiliBili.md)
 
-[BiliBili - HSR*](https://pkg.biligame.com/games/StarRail_setup_bilibili/773823/StarRail_setup_bilibili.exe)
-
-[BiliBili - ZZZ*](https://pkg.biligame.com/games/zzz_bilibili_1.1new/840833/zzz_bilibili_1.1new.exe)
-
-[Global](https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default)
-
-*Fixed Links, for official Updated downloads, check the [Other Links](#other-links) below
-
-## Other Links ##
-
-[HoYoPlay Global](https://hoyoplay.hoyoverse.com)
-
-[HoYoPlay China](https://launcher.mihoyo.com)
-
-[Star Rail - BiliBili](https://www.biligame.com/detail/?id=108586)
-
-[Genshin - BiliBili](https://www.biligame.com/detail/?id=105667)
-
-[Zenless - BiliBili](https://www.biligame.com/detail/?id=111210)
-
-[miHoYo Cloud Services - China](https://mhyy.mihoyo.com/)
-
-[Genshin - Cloud Global](https://cloudgenshin.hoyoverse.com/en-us)
+[Google Play Launcher](./Installer/HYP-GPlay.md)
