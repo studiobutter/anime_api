@@ -31,7 +31,12 @@ Game Events:
 - [nap (ZZZ)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=U5hbdsT9W7&language=en-us)
 - [hkrpg (HSR)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=4ziysqXOQ8&language=en-us)
 - [hk4e (Genshin)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=gopR6Cufr3&language=en-us)
-- [bh3 (HI3rd)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=5TIVvvcwtM&language=en-us)
+- bh3 (HI3rd)
+  - [America & Europe](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=5TIVvvcwtM&language=en-us)
+  - [Southeast Asia](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=bxPTXSET5t&language=en-us)
+  - [Japan](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=g0mMIvshDb&language=en-us)
+  - [Korea](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=uxB4MC7nzC&language=en-us)
+  - [TW/HK/MO](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=wkE5P5WsIf&language=en-us)
 
 [Background and Basic Info](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getAllGameBasicInfo?launcher_id=VYTpXlbWo8)
 
