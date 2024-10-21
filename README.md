@@ -8,7 +8,7 @@ This Repository is meant for reseaching and helping players do manual downloads.
 
 Used in Project: 
 
-- [hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) by [seriaati](https://github.com/seriaati)
+- [hoyo-update-notifier](https://hoyo-update-notifier.seria.moe/) by [seriaati](https://github.com/seriaati)
 
 ## URI Protocalls ##
 
