@@ -1,4 +1,4 @@
-# HoYoPlay URL Protocalls
+# HoYoPlay URL Protocols
 
 Please note that these URIs only open the Launcher's Game Page. It does not open the game directly.
 
