@@ -4,11 +4,11 @@ List of API from certain Anime Games.
 
 **NOTICE**: All APIs have been migrated to HoYoPlay APIs
 
-- June 17th, 2024: Genshin, Star Rail APIs have been migrated.
+- October 17th, 2024: Genshin, Star Rail APIs have been migrated.
 
-- June 18-19, 2024: Google Play Launchers were migrated
+- October 18-19, 2024: Google Play Launchers were migrated
 
-- ???: All region of Honkai Impact 3rd have been migrated.
+- October 21st, 2024: All region of Honkai Impact 3rd have been migrated.
 
 This Repository is meant for reseaching and helping players do manual downloads.
 
