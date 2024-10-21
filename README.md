@@ -10,9 +10,9 @@ Used in Project:
 
 - [hoyo-update-notifier](https://hoyo-update-notifier.seria.moe/) by [seriaati](https://github.com/seriaati)
 
-## URI Protocalls ##
+## URI Protocols ##
 
-URI protocalls are little shortcuts registered to your Machine that automatically launch an application when called. Click the link below to try it out!
+URI Protocols are little shortcuts registered to your Machine that automatically launch an application when called. Click the link below to try it out!
 
 [HoYoPlay Global](hyp-global://)
 
