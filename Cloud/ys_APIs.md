@@ -12,3 +12,4 @@ Background Query Parameters:
 
 - type=0: Web Cloud
 - type=1: App Cloud
+- all=true: Show all BG
