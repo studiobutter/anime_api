@@ -25,7 +25,7 @@ cps=pcgoogle
 ```json
 channel=1
 sub_channel=3
-cps=pcgoogle
+cps=pcepic
 ```
 
 [Game Configs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=ACQazS79kX)
