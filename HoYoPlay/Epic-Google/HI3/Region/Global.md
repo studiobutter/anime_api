@@ -20,9 +20,17 @@ sub_channel=6
 cps=pcgoogle
 ```
 
+## Google Play
+
+```json
+channel=1
+sub_channel=3
+cps=pcgoogle
+```
+
 [Game Configs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=ACQazS79kX)
 
-[SDKs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=ACQazS79kX&channel=1&sub_channel=6)
+[SDKs - Epic](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=ACQazS79kX&channel=1&sub_channel=3)
 
 Google Play does not have SDK as it's integrated in HoYo Login SDK. You will be asked to login to Google Play to verify your safeguard.
 
