@@ -1,4 +1,4 @@
-# Global - Google Play and Epic Games - Genshin
+# Korea - Google Play - Genshin
 
 ## Google Play
 
@@ -10,7 +10,7 @@ cps=pcgoogle
 
 [Game Configs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=kkd8eq3Nnd)
 
-[SDKs - Epic](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=kkd8eq3Nnd&channel=1&sub_channel=3)
+[SDKs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=kkd8eq3Nnd&channel=1&sub_channel=6)
 
 Google Play does not have SDK as it's integrated in HoYo Login SDK. You will be asked to login to Google Play to verify your safeguard.
 
