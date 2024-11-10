@@ -20,7 +20,7 @@ sub_channel=6
 cps=pcgoogle
 ```
 
-## Google Play
+## Epic Games
 
 ```json
 channel=1
