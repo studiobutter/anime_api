@@ -1,4 +1,4 @@
-# Global - Google Play - HI3rd
+# Global - Google Play and Epic Games - HI3rd
 
 Certain links can get in different languages like English, French, Italian, Germany, etc
 
