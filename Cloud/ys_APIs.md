@@ -4,7 +4,7 @@
 
 [China](https://api-cloudgame.mihoyo.com/hk4e_cg_cn/gamer/api/getUIConfig?type=0)
 
-Global Requires **Heading** to get content: x-rpc-cg_game_biz=hk4e_global or hk4e_cn
+May Requires **Heading** to get content: x-rpc-cg_game_biz=hk4e_global or hk4e_cn
 
 Testing: Use Insomnia to get the content
 

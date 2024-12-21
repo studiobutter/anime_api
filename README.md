@@ -48,7 +48,7 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [ZZZ](./HoYoPlay/Epic-Google/Epic_ZZZ.md)
 
-[[NEW] HI3rd](./HoYoPlay/Epic-Google/HI3/Root.md)
+[HI3rd](./HoYoPlay/Epic-Google/HI3/Root.md)
 
 ## Other APIs ##
 
@@ -57,6 +57,8 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 [Genshin Global and China](./Cloud/ys_APIs.md)
 
 [Star Rail China](./Cloud/sr_APIs.md)
+
+[Zenless China](./Cloud/nap_APIs.md)
 
 ## Direct Download links to HoYoPlay ##
 

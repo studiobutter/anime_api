@@ -1,10 +1,10 @@
 # HoYoPlay
 
-[Global](https://download-porter.hoyoverse.com/download-porter/2024/10/16/VYTpXlbWo8_1.2.2.159_1_0_hyp_hoyoverse_prod_202410101639_pXThMoIQ.exe?trace_key=HoYoPlay_1_2_2)
+[Global](https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default)
 
 - [Main Page](https://hoyoplay.hoyoverse.com)
 
-[China](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.2.2.exe)
+[China](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.3.3.exe)
 
 - [Main Page](https://launcher.mihoyo.com)
 
@@ -21,5 +21,9 @@
 - Star Rail: No PC Launcher yet
 
   - [Main Page](https://sr.mihoyo.com/cloud)
+
+- Zenless: No PC Launcher yet
+
+  - [Main Page](https://zzz.mihoyo.com/cloud-feat/)
 
 [Main China Cloud Page](https://mhyy.mihoyo.com)
