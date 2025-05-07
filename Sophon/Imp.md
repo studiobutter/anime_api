@@ -6,7 +6,7 @@ Sophon is a new download method introduced by HoYoverse and was firstly introduc
 
 Sophon allows files to be downloaded into several chunks, which result more efficient, faster and less error-prone download process compared to conventional archive file download method. This also allows the download process requiring much less disk space since the files will be written into disk on-the-fly without reserving double the size of disk space.
 
-Sophon has 2 download modes, one of them might also be deprecated.
+Sophon has 2 download modes, one of them might also be deprecate soon.
 
 - Copy-Over
 
