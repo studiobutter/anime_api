@@ -28,10 +28,10 @@ China: https://api-takumi.mihoyo.com/downloader/sophon_chunk/api/getBuild
 
 To get the data, the following paramaters is required:
 
-- `package_id`
+- package_id
 
-- `branch`=[main/predownload]
+- branch=[main/predownload]
 
-- `password`
+- password
 
 These data can be found in section [Game Branches & Sophon] of the corresponding launcher client.
