@@ -2,9 +2,9 @@
 
 List of API from certain Anime Games.
 
-**NOTICE**: All APIs have been migrated to HoYoPlay APIs. All Old Launcher APIs are deprecated.
+**NOTICE**: Genshin Impact v5.6 no longer support ZIP Packages. Read it in the [FAQ](./Docs/FAQ.md)
 
-This Repository is meant for reseaching and helping players do manual downloads. You can read the FAQ [here](./Docs/FAQ.md)
+This Repository is meant for reseaching. You can read the FAQ [here](./Docs/FAQ.md)
 
 Used in Project: 
 
@@ -21,6 +21,10 @@ URI Protocols are little shortcuts registered to your Machine that automatically
 [Protocols Settings](./HoYoPlay/URI.md)
 
 For other protocols, check out [uri-test](https://studiobutter.github.io/uri-test)
+
+## Sophon Implementation
+
+If you wish to implement Sophon, read [here](./Sophon/Imp.md)
 
 ## HoYoPlay ##
 

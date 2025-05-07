@@ -9,3 +9,13 @@ Contract and Complience, marketing and testing. They have some contracts to foll
 # Will there be Beta API
 
 No and Never.
+
+# Why ZIP Packages no longer support?
+
+HoYo is deprecating the ZIP package download mode in favor of the better download system call Sophon which download, extracting and patch the game on the fly instead of waiting for indiviual step to complete.
+
+With that, Manual Download is no longer supported. If you wish to download the game. Use the official launcher or the open source ones to continue.
+
+- [Collapse Launcher](https://collapselauncher.com/)
+
+- [Starward Launcher](https://github.com/Scighost/Starward)
