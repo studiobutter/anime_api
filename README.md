@@ -4,6 +4,8 @@ List of API from certain Anime Games.
 
 **NOTICE**: Genshin Impact v5.6 no longer support ZIP Packages. Honkai: Star Rail now support Sophon. ZIP Packages will be deprecated soon. Read it in the [FAQ](./Docs/FAQ.md)
 
+Info: This page is now hosted on a new domain!
+
 This Repository is meant for reseaching. You can read the FAQ [here](./Docs/FAQ.md)
 
 Used in Project: 
