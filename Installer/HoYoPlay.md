@@ -4,7 +4,7 @@
 
 - [Main Page](https://hoyoplay.hoyoverse.com)
 
-[China](https://hyp-webstatic.mihoyo.com/hyp-client/hyp_cn_setup_1.3.3.exe)
+[China](https://mhyurl.cn/Ztkut6sBd)
 
 - [Main Page](https://launcher.mihoyo.com)
 
@@ -22,7 +22,7 @@
 
   - [Main Page](https://sr.mihoyo.com/cloud)
 
-- Zenless: No PC Launcher yet
+- [Zenless - China](https://act-api-takumi.mihoyo.com/event/download_porter/link/clgm_nap-cn/official/pc_cloudgame)
 
   - [Main Page](https://zzz.mihoyo.com/cloud-feat/)
 
