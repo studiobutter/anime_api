@@ -42,9 +42,13 @@ Google Play does not have SDK as it's integrated in HoYo Login SDK. You will be 
 
 [Game Packages](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?launcher_id=8fANlj5K7I)
 
+[NEW - Mandatory Module Packages](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=8fANlj5K7I)
+
 [Game Plugins](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePlugins?launcher_id=8fANlj5K7I)
 
 [Game Status](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGames?launcher_id=8fANlj5K7I&language=en-us)
+
+[Game Executable Scan Check](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameScanInfo?launcher_id=8fANlj5K7I)
 
 [Game Events](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=8fANlj5K7I&game_id=gopR6Cufr3&language=en-us)
 
