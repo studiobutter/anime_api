@@ -22,9 +22,13 @@ On some links, add either one of these two:
 
 [Game Packages](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?launcher_id=0hUu4SbmhI)
 
+[NEW - Mandatory Module Packages](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=0hUu4SbmhI)
+
 [Game Plugins](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePlugins?launcher_id=0hUu4SbmhI)
 
 [Game Status](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGames?launcher_id=0hUu4SbmhI&language=en-us)
+
+[Game Executable Scan Check](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameScanInfo?launcher_id=0hUu4SbmhI)
 
 [Game Events](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=0hUu4SbmhI&game_id=FUoEmzPdP3&language=en-us)
 

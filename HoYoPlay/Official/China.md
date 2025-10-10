@@ -6,11 +6,15 @@
 
 [Game Branches & Sophon](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameBranches?launcher_id=jGHBHlcOq1)
 
+[NEW - Mandatory Module Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=jGHBHlcOq1)
+
 [Game Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?launcher_id=jGHBHlcOq1)
 
 [Game Plugins](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePlugins?launcher_id=jGHBHlcOq1)
 
 [Game Status](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGames?launcher_id=jGHBHlcOq1&language=zh-cn)
+
+[Game Executable Scan Check](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameScanInfo?launcher_id=jGHBHlcOq1)
 
 Game Events:
 
