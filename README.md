@@ -2,9 +2,11 @@
 
 List of API from certain Anime Games.
 
-**NOTICE**: Genshin Impact v5.6 no longer support ZIP Packages. Honkai: Star Rail now support Sophon. ZIP Packages will be deprecated soon. Read it in the [FAQ](./Docs/FAQ.md)
+**NOTICE**: 
 
-Info: This page is now hosted on a new domain!
+- Sophon Download is the default Download system. ZIP Packages will be deprecated soon. Read it in the [FAQ](./Docs/FAQ.md)
+
+- Genshin Impact now requires a mandatory module on the PC version for Miliastra Sandbox. Please implement ZIP Download for Miliastra Sandbox using the new WPF Package API
 
 This Repository is meant for reseaching. You can read the FAQ [here](./Docs/FAQ.md)
 
