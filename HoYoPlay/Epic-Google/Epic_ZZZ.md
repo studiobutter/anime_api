@@ -12,6 +12,14 @@ On some links, add either one of these two:
 &language={lang}
 ```
 
+## Epic Games
+
+```json
+channel=1
+sub_channel=3
+cps=pcepic
+```
+
 [Game Configs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameConfigs?launcher_id=0hUu4SbmhI)
 
 [SDKs](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?channel=1&game_ids[]=FUoEmzPdP3&launcher_id=0hUu4SbmhI&sub_channel=3)
@@ -22,7 +30,7 @@ On some links, add either one of these two:
 
 [Game Packages](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?launcher_id=0hUu4SbmhI)
 
-[NEW - Mandatory Module Packages](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=0hUu4SbmhI)
+[WPF Module Packages](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=0hUu4SbmhI)
 
 [Game Plugins](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePlugins?launcher_id=0hUu4SbmhI)
 

@@ -12,13 +12,15 @@ No and Never.
 
 # Why ZIP Packages no longer support?
 
-As of October 23rd, HoYo have fully deprecated the ZIP package download mode from main use in favor of the better download system call Sophon which download, extracting and patch the game on the fly instead of waiting for indiviual step to complete.
+As of October 23rd, HoYo have fully deprecated the ZIP package download mode from main use in favor of the better download system call Sophon which download game packages in segments, combining them, extracting and patch the game on the fly instead of waiting for indiviual step to complete.
 
 With that, Manual Download is no longer supported. If you wish to download the game. Use the official launcher or the open source ones to continue.
 
 - [Collapse Launcher](https://collapselauncher.com/)
 
 - [Starward Launcher](https://github.com/Scighost/Starward)
+
+I can't provide how to implement Sophon Download system, you can find resources [here](../Sophon/Imp.md)
 
 ZIP Package system will still be use for the following:
 
@@ -28,4 +30,4 @@ ZIP Package system will still be use for the following:
 
 # What's WPF?
 
-It's a new package endpoint for required for Genshin Impact's Miliastra Sandbox.
+It's a new package endpoint for adding Game-Based Modules (i.e: Genshin Impact's Miliastra Sandbox)

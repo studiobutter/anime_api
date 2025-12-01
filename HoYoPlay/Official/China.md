@@ -6,7 +6,7 @@
 
 [Game Branches & Sophon](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameBranches?launcher_id=jGHBHlcOq1)
 
-[NEW - Mandatory Module Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=jGHBHlcOq1)
+[WPF Module Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=jGHBHlcOq1)
 
 [Game Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?launcher_id=jGHBHlcOq1)
 

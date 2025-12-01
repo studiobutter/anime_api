@@ -8,7 +8,7 @@
 
 [Game Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?launcher_id=6P5gHMNyK3)
 
-[NEW - Mandatory Module Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=6P5gHMNyK3)
+[WPF Module Packages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getWPFPackages?launcher_id=6P5gHMNyK3)
 
 [Game Plugins](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePlugins?launcher_id=6P5gHMNyK3)
 

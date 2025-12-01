@@ -18,7 +18,7 @@
 
   - [Main Page](https://ys.mihoyo.com/cloud)
 
-- Star Rail: No PC Launcher yet
+- Star Rail: No PC Launcher
 
   - [Main Page](https://sr.mihoyo.com/cloud)
 

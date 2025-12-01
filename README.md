@@ -2,13 +2,7 @@
 
 List of API from certain Anime Games.
 
-**NOTICE**: 
-
-- Sophon Download is the default Download system. ZIP Packages has deprecated from main use on Oct 23rd. 
-
-- Genshin Impact now requires a mandatory module on the PC version for Miliastra Sandbox. ZIP Download was recycled for Miliastra Sandbox using the new WPF Package API.
-
-This Repository is meant for reseaching. You can read the FAQ [here](./Docs/FAQ.md) including updates regarding API Changes
+This Repository is meant for reseaching. You can read the FAQ [here](./Docs/FAQ.md) for more information.
 
 Used in Project: 
 
