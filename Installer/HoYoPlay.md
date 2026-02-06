@@ -22,7 +22,11 @@
 
   - [Main Page](https://sr.mihoyo.com/cloud)
 
-- [Zenless - China](https://act-api-takumi.mihoyo.com/event/download_porter/link/clgm_nap-cn/official/pc_cloudgame)
+- [Zenless Cloud - Global](https://sg-public-api.hoyoverse.com/event/download_porter/link/clgm_nap-global/official/pc_ldy)
+
+  - [Main Page](https://zenless.hoyoverse.com/ja-jp/main)
+
+- [Zenless Cloud - China](https://act-api-takumi.mihoyo.com/event/download_porter/link/clgm_nap-cn/official/pc_cloudgame)
 
   - [Main Page](https://zzz.mihoyo.com/cloud-feat/)
 
