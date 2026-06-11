@@ -14,6 +14,9 @@ On some links, add either one of these two:
 
 Note: Epic use a different sub_channel ID and cps ID than Google in the game's `Game_Data/config.ini`
 
+Note 2: HoYoPlay - Standalone Genshin Impact now requires Google Play Games PC running, now requiring a Google Play Session Token. To get the session token, the launcher must be launched in Google Play either from the start menu, shortcut or in Google Play. The token session is required so the launcher can pass said token to the game to run correctly. The game will required an SDK to run the game correctly
+
+
 ## Google Play
 
 ```json
@@ -34,7 +37,9 @@ cps=pcepic
 
 [SDKs - Epic](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=8fANlj5K7I&channel=1&sub_channel=3)
 
-Google Play does not have SDK as it's integrated in HoYo Login SDK. You will be asked to login to Google Play to verify your safeguard.
+[SDKs - Google](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameChannelSDKs?launcher_id=8fANlj5K7I&channel=1&sub_channel=6)
+
+June 11th, 2026: HoYoverse has updated the Google Play version, now requiring Google Play SDK to launch the game. You will still be asked to login to Google Play to verify your safeguard.
 
 [Deprecated Files](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameDeprecatedFileConfigs?launcher_id=8fANlj5K7I)
 
