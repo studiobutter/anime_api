@@ -52,6 +52,12 @@ Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay
 
 [HI3rd](./HoYoPlay/Epic-Google/HI3/Root.md)
 
+### Steam ###
+
+Note: When using the Epic Version, the Epic Launcher and the correspond HoYoPlay of that game must be installed to run correctly and the game must be run directly from the Epic Games Launcher. Fail to do so will make the game hang when exit or on a certain point.
+
+[ZZZ](./HoYoPlay/Steam/Steam_ZZZ.md)
+
 ## Other APIs ##
 
 ### Cloud ###
