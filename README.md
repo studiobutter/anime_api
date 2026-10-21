@@ -4,6 +4,10 @@ List of API from certain Anime Games.
 
 This Repository is meant for reseaching. You can read the FAQ [here](./Docs/FAQ.md) for more information.
 
+The use of ZIP Package is now deprecated for the main games. (Except: HI3rd Overseas - pending deprecation) Please use the official launcher to download the game.
+
+You can still navigate the page for getting other packages like Game Plugin or Miliastra Sandbox.
+
 Used in Project: 
 
 - [hoyo-update-notifier](https://hoyo-update-notifier.seria.moe/) by [seriaati](https://github.com/seriaati)
