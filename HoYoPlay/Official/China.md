@@ -22,7 +22,15 @@ Game Events:
 - [hkrpg (HSR)](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameContent?launcher_id=jGHBHlcOq1&game_id=64kMb5iAWu&language=zh-cn)
 - [hk4e (Genshin)](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameContent?launcher_id=jGHBHlcOq1&game_id=1Z8W5NHUQb&language=zh-cn)
 - [bh3 (HI3rd)](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameContent?launcher_id=jGHBHlcOq1&game_id=osvnlOc0S8&language=zh-cn)
+- [hyg (PePl)](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameContent?game_id=ERYDdvf0w8&language=en-us)
+- [abc (HNA)](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameContent?game_id=m8TGERqknS&language=en-us)
+
 
 [Background and Basic Info](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getAllGameBasicInfo?launcher_id=jGHBHlcOq1&language=zh-cn)
 
 [Notification Alert](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getNotification?launcher_id=jGHBHlcOq1&language=zh-cn&type=NOTIFICATION_TYPE_RED_DOT)
+
+Game Reservation Content
+
+- [hyg (PePl)](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameReservationContent?game_id=ERYDdvf0w8&language=en-us)
+- [abc (HNA)](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGameReservationContent?game_id=m8TGERqknS&language=en-us)

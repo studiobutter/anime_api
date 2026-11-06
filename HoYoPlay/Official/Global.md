@@ -41,7 +41,14 @@ Game Events:
   - [Japan](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=g0mMIvshDb&language=en-us)
   - [Korea](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=uxB4MC7nzC&language=en-us)
   - [TW/HK/MO](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=wkE5P5WsIf&language=en-us)
+- [hyg (PePl)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=viiywh5G2H&language=en-us)
+- [abc (HNA)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameContent?launcher_id=VYTpXlbWo8&game_id=yneO4yGc4x&language=en-us)
 
-[Background and Basic Info](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getAllGameBasicInfo?launcher_id=VYTpXlbWo8)
+[Background and Basic Info](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getAllGameBasicInfo?launcher_id=VYTpXlbWo8&language=en-us)
 
 [Notification Alert](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getNotification?launcher_id=VYTpXlbWo8&language=en-us&type=NOTIFICATION_TYPE_RED_DOT)
+
+Game Reservation Content
+
+- [hyg (PePl)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameReservationContent?game_id=viiywh5G2H&language=en-us)
+- [abc (HNA)](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGameReservationContent?game_id=yneO4yGc4x&language=en-us)
